@@ -1,1 +1,3 @@
 Jason Leidahl GIT TRAINING
+
+Changing something to do git pull. 
